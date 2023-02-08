@@ -119,7 +119,6 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         breakpoint: 650,
         settings: {
-          dots: true,
           arrows: false,
           fade: false,
           cssEase: "ease",
